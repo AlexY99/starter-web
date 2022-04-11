@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Alexis Juarez   azul-yael99@hotmail.com  @AlexisJuarez
 
 # THANKS
 
